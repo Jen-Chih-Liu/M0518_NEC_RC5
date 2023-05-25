@@ -1,0 +1,166 @@
+Dependencies for Project 'GPIO_INT', Target 'GPIO_INT': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (..\..\..\..\Library\Device\Nuvoton\M0518\Source\system_M0518.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\system_m0518.o --omf_browse .\obj\system_m0518.crf --depend .\obj\system_m0518.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\Device\Nuvoton\M0518\Source\ARM\startup_M0518.s)(0x64191164)(--cpu Cortex-M0 -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 531"--list .\lst\startup_m0518.lst --xref -o .\obj\startup_m0518.o --depend .\obj\startup_m0518.d)
+F (..\main.c)(0x646F1530)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\retarget.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\gpio.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\gpio.o --omf_browse .\obj\gpio.crf --depend .\obj\gpio.d)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\clk.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\clk.o --omf_browse .\obj\clk.crf --depend .\obj\clk.d)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\sys.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\sys.o --omf_browse .\obj\sys.crf --depend .\obj\sys.d)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\uart.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
+F (..\..\..\..\Library\StdDriver\src\timer.c)(0x64191164)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\Library\Device\Nuvoton\M0518\Include -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531"-o .\obj\timer.o --omf_browse .\obj\timer.crf --depend .\obj\timer.d)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\M0518.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cm0.h)(0x64191164)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (..\..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x64191164)
+I (..\..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x64191164)
+I (..\..\..\..\Library\Device\Nuvoton\M0518\Include\system_M0518.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\sys.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\adc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\fmc.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\gpio.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\i2c.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\pwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\bpwm.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\spi.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\timer.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\wwdt.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\uart.h)(0x64191164)
+I (..\..\..\..\Library\StdDriver\inc\clk.h)(0x64191164)
